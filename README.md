@@ -4,7 +4,8 @@
 <h1 align="center">Hi there 👋 Myself Karthikeyan Sakthivel</h1> 
 <h3 align="center">Business Analyst | Fresher | Seeking for opportunity </h3> 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">   
+
 - 🌱 I’m currently learning Business Case Studies
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in IT world 
