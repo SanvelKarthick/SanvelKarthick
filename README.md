@@ -24,10 +24,9 @@ Business Analyst | Fresher | Seeking for opportunity
 
 
 ![SanvelKarthick's Stats](https://github-readme-stats.vercel.app/api?username=SanvelKarthick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![SanvelKarthick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanvelKarthick&theme=vue-dark&hide_border=true)
 
 ![SanvelKarthick's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanvelKarthick&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![image](https://github.com/user-attachments/assets/c5eb6f03-4a8e-48be-9e0a-e185ddad9a46)
+
 
