@@ -16,15 +16,27 @@
 - ⚡ Fun fact: I am learning Japanese.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+  
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" alt="microsoft-word-2019--v2"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 
 
 ![SanvelKarthick's Stats](https://github-readme-stats.vercel.app/api?username=SanvelKarthick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
