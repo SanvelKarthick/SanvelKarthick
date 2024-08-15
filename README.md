@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)]
+[![MasterHead](https://github.com/user-attachments/assets/779fd61f-1a7f-4a04-9fbf-293661481890)]
 
 
 <h1 align="center">Hi there 👋 Myself Karthikeyan Sakthivel</h1> 
