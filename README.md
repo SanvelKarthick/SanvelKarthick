@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/779fd61f-1a7f-4a04-9fbf-293661481890)
 
 
-<h1 align="center">Hi there 👋 Myself Karthikeyan Sakthivel</h1> 
+
 <h3 align="center">Business Analyst | Fresher | Seeking for opportunity </h3> 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">   
