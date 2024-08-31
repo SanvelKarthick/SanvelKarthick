@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning Business Case Studies
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in IT world 
-- 💬 Ask me about Technologies / AI    
+- 🤔 I’m looking for help with Placements in the IT world 
+- 💬 Ask me about Technologies / AI & ML / Business Cases     
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthikeyan-sakthivel-6a785227a/)
 - 😄 Pronouns: Tech Zen
