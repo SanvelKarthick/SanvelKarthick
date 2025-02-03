@@ -26,8 +26,6 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" alt="microsoft-word-2019--v2"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 
 
-![SanvelKarthick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanvelKarthick&theme=vue-dark&hide_border=true)
-![SanvelKarthick's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanvelKarthick&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
